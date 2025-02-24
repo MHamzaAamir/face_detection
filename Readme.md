@@ -46,5 +46,3 @@ python predict.py
 - `face detection.ipynb` - Jupyter Notebook containing the training pipeline.
 - `facetracker.h5` - Trained model weights.
 - `predict.py` - Script to perform real-time face tracking using a webcam.
-
-
